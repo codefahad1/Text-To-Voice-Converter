@@ -104,10 +104,13 @@ select{
     text-decoration: none;
 }
 
+
+
 @media screen and (max-width: 600px) {
-     .hero {
+    .hero {
         padding-bottom: 20px;
     }
+
     .hero h1 {
         font-size: 28px;
         font-weight: 500;
@@ -146,7 +149,8 @@ select{
         letter-spacing: 2px;
         box-shadow: 0px 0px 20px -1px rgb(26, 67, 77);
     }
-        .copyright {
+
+    .copyright {
         padding: 3px;
         font-size: 9px;
     }
